@@ -1,7 +1,3 @@
-Doug F Newsom
-
-
-
 Passionate about data science, digital communications, and emerging Internet technologies.
 
 Graduate of first Rice University intensive 6 month Data Analytics a Visualization program.
