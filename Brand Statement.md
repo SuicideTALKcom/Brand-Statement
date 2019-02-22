@@ -1,8 +1,8 @@
 ## Doug F Newsom
 
-Rice University Data Science Bootcamp graduate with passion to discover new insights from complex data sets through detailed analytical research and implementing emerging technologies.  Former petroleum geologist (M.S. from Texas A&M University) with proven energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  An innovator and consultant for digital communications with a full skill set managing project life-cycles from conception through delivery.  Recipient of U.S. Gold Congressional Award Medal for initiative, service and achievement.
+Rice University graduate of intensive 6 month Data Analytics and Visualization program.  Seek to discover new insights from complex data sets through detailed analytical research and implementing emerging technologies.  Former petroleum geologist (M.S. from Texas A&M University) with proven upstream energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  An innovator and consultant for digital technology with professional skill set managing project life-cycles from conception through delivery.  Recipient of U.S. Gold Congressional Award Medal for initiative, service and achievement.
 
-#
+###
 
 * Passionate about data science, digital communications, and emerging Internet technologies.
 
