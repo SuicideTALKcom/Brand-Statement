@@ -13,3 +13,5 @@ Founder and President of SuicideTALK.com, an international suicide prevention or
 Gold Congressional Award Medal recipient presented for Initiative, Achievement, and Service.
 
 Only Texas Eagle Scout to earn every merit badge during the first nine decades of Scouting.
+
+Rice University Data Science Bootcamp graduate with passion to discover new insights from complex data sets through detailed analytical research and implementing emerging technologies.  Former petroleum geologist (M.S. from Texas A&M University) with proven energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  An innovator and consultant for digital communications with a full skill set managing project life-cycles from conception through delivery.  Recipient of U.S. Gold Congressional Award Medal for initiative, service and achievement.
