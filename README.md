@@ -18,4 +18,4 @@ Rice University graduate of intensive 6 month Data Analytics and Visualization p
 
 * Gold Congressional Award Medal recipient presented for Initiative, Achievement, and Service.
 
-* Only Texas Eagle Scout to earn every merit badge during the first nine decades of Scouting
+* Only Texas Eagle Scout to earn every merit badge during the first nine decades of Scouting.
