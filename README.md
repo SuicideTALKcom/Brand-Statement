@@ -2,13 +2,13 @@
 
 Rice University graduate of intensive 6 month Data Analytics and Visualization program.  Seek to discover new insights from complex data sets through detailed analytical research using emerging technologies.  Petroleum geologist (M.S. from Texas A&M University) with proven upstream energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  An innovator and consultant for digital technology with professional skill set managing entire project life-cycles.  Recipient of U.S. Gold Congressional Award Medal for initiative, service and achievement.
 
-# Summary
+### Summary
 
 * Passionate about data science, digital communications, and emerging Internet technologies.
 
 * Graduate of first Rice University intensive 6 month Data Analytics and Visualization program.
 
-* Consultant for both traditional and new digital media to Houston Advanced Research Center.
+* Consultant for traditional and new digital media to the Houston Advanced Research Center.
 
 * Proposed, drilled, and evaluated 100 successful oil and gas wells as a Petroleum Geologist.
 
