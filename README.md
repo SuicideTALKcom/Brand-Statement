@@ -1,21 +1,35 @@
 ## Doug F Newsom
 
-Rice University graduate of intensive 6 month Data Analytics and Visualization program.  Seek to discover new insights from complex data sets through detailed analytical research using emerging technologies.  Petroleum geologist (M.S. from Texas A&M University) with proven upstream energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  An innovator and consultant for digital technology with professional skill set managing entire project life-cycles.  Recipient of U.S. Gold Congressional Award Medal for initiative, service, and achievement.
+Rice University graduate of intensive 6-month Data Analytics and Visualization program.  Seek to discover new insights from complex data sets through detailed analytical research and emerging Internet technologies.  A national consultant and innovator for interactive digital communications with skill set efficiently managing complete project life-cycles.  Petroleum geologist (B.S. - Baylor University, M.S. - Texas A&M University) with proven upstream energy expertise having proposed, drilled, and evaluated 100 successful oil and gas wells.  Recipient of U.S. Gold Congressional Award Medal for initiative, service, and achievement.
 
-### Summary
+### Background Summary
 
-* Passionate about data science, digital communications, and emerging Internet technologies.
+* Passionate about data science, digital communications, and emerging Internet technologies
 
-* Graduate of first Rice University intensive 6 month Data Analytics and Visualization program.
+* Graduate of first Rice University intensive 6-month Data Analytics and Visualization program
 
-* Consultant for traditional and new digital media to the Houston Advanced Research Center.
+* Graduate of first Lonestar College Interactive Multimedia Production Management 2-year program
 
-* Proposed, drilled, and evaluated 100 successful oil and gas wells as a Petroleum Geologist.
+* Bachelor of Science (Geology) Baylor University, Master of Science (Geology) Texas A&M University
 
-* Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company.
+* Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company
 
-* Founder and President of SuicideTALK.com, an international suicide prevention organization.
+* Consultant for traditional and new digital media to the Houston Advanced Research Center
 
-* Gold Congressional Award Medal recipient presented for Initiative, Achievement, and Service.
+* Developer of first Department of Defense standardized Interactive Electronic Technical Manual
 
-* Only Texas Eagle Scout to earn every merit badge during the first nine decades of Scouting.
+* Developer of first interactive and searchable NCAA training program for collegiate officiating
+
+* Project Manager of Electronically Produced Interactive Catalogues for Fortune 500 companies
+
+* Petroleum Geologist having proposed, drilled, and evaluated 100 successful oil and gas wells
+
+* Founder and President of SuicideTALK.com, an international suicide prevention organization
+
+* Gold Congressional Award Medal recipient presented for initiative, service, and achievement
+
+* U.S.A. National Hornaday Award recipient presented for distinguished service to conservation
+
+* National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
+
+* Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
