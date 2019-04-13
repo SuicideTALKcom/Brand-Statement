@@ -30,12 +30,12 @@ Rice University graduate of intensive 6-month Data Analytics and Visualization p
 
 * International, National, Regional, State, Council, District and Unit Leader in Scouting Program
 
+* Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
+
 * U.S.A. National Hornaday Award recipient presented for distinguished service to conservation
 
 * National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
 
-* Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
-
-* Outstanding Young Men in America Award, Youth Leadership in America Award, Young American Award
+* Award recipient - Outstanding Young Men in America, Youth Leadership in America, Young American
 
 * Texas Triathalon Seven - First Place in Men's Business Team Division (competing in cycling leg)
