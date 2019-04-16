@@ -8,7 +8,7 @@ Rice University graduate of intensive 6-month Data Analytics and Visualization p
 
 * Graduate of first Rice University intensive 6-month Data Analytics and Visualization program
 
-* Graduate of first Lonestar College Interactive Multimedia Production Management 2-year program
+* Graduate of first Lonestar College 2-year program in Interactive Multimedia Production
 
 * Bachelor of Science (Geology) Baylor University, Master of Science (Geology) Texas A&M University
 
@@ -36,6 +36,6 @@ Rice University graduate of intensive 6-month Data Analytics and Visualization p
 
 * National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
 
-* Award recipient - Outstanding Young Men in America, Youth Leadership in America, Young American
+* Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
 
-* Texas Triathalon Seven - First Place in Men's Business Team Division (competing in cycling leg)
+* Texas Triathlon Seven - First Place in Men's Business Team Division (competing in cycling leg)
