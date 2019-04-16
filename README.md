@@ -14,7 +14,7 @@ Rice University graduate of intensive 6-month Data Analytics and Visualization p
 
 * Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company
 
-* Consultant for traditional and new digital media to the Houston Advanced Research Center
+* Consultant to the Houston Advanced Research Center for all new and traditional digital media
 
 * Developer of first Department of Defense standardized Interactive Electronic Technical Manual
 
