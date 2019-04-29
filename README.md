@@ -6,7 +6,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Passionate about data science, digital communications, and emerging Internet technologies
 
-* Graduate of first Rice University intensive 6-month Data Analytics and Visualization program
+* Graduate of first Rice University accelerated 6-month Data Analytics and Visualization program
 
 * Graduate of first Lonestar College 2-year program in Interactive Multimedia Production
 
@@ -22,7 +22,9 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Project Manager of Electronically Produced Interactive Catalogues for Fortune 500 companies
 
-* Petroleum Geologist having proposed, drilled, and evaluated 100 successful oil and gas wells
+* Petroleum Geologist employed by Mitchell Energy (The Woodlands) and Phillips Petroleum Company 
+
+* Upstream energy field and corporate experience, proven track record of 100 oil and gas wells
 
 * Founder and President of SuicideTALK.com, an international suicide prevention organization
 
@@ -32,10 +34,10 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
 
+* Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
+
 * U.S.A. National Hornaday Award recipient presented for distinguished service to conservation
 
 * National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
-
-* Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
 
 * Texas Triathlon Seven - First Place in Men's Business Team Division (competing in cycling leg)
