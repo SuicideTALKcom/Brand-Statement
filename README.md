@@ -40,4 +40,4 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
 
-* Texas Triathlon Seven - First Place in Men's Business Team Division (competing in cycling leg)
+* Texas Triathlon Seven - First Place in Men's Business Team Division, competing in cycling leg
