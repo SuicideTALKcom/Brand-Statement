@@ -1,6 +1,6 @@
 ## Doug F Newsom
 
-Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed analytical research implementing the latest technological advancements.  Consultant and innovator for interactive digital communications, managing complex project life-cycles.  Proven upstream energy expertise as a Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed, drilled, and evaluated 100 successful wells.  Recipient of U.S. Gold Congressional Award Medal for initiative, service, and achievement.
+Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed analytical research implementing latest technological advancements.  Consultant and innovator for interactive digital communications, managing complex project life-cycles.  Proven upstream energy expertise as a Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed, drilled, and evaluated 100 successful wells.  Recipient of U.S. Gold Congressional Award Medal for initiative, service, and achievement.
 
 ### Background Summary
 
