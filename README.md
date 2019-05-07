@@ -1,6 +1,6 @@
 ## Doug F Newsom
 
-Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed analytical research implementing latest technological advancements.  Innovative consultant for interactive digital communications with skill set managing complex project life-cycles.  Proven upstream energy expertise as Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed, drilled, and evaluated 100 oil and gas wells.  U.S. Gold Congressional Award Medal recipient for initiative, service, and achievement.
+Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed analytical research implementing contemporary technologicals.  Consultant and innovator with interactive digital communications with skill set managing complex project life-cycles.  Proven upstream energy expertise as Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed, drilled, and evaluated 100 oil and gas wells.  U.S. Gold Congressional Award Medal recipient for initiative, service, and achievement.
 
 ### Background Summary
 
@@ -15,6 +15,8 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 * Graduate of first Rice University accelerated 6-month Data Analytics and Visualization program
 
 * Graduate of first Lonestar College 2-year program in Interactive Multimedia Production
+
+* Potential 2019 Houston Community College Graduate - Digital Communications Associates Degree 
 
 * Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company
 
