@@ -16,7 +16,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Graduate of first Lonestar College 2-year program in Interactive Multimedia Production
 
-* Potential 2019 Houston Community College Graduate - Digital Communications Associates Degree 
+* Fall 2019 Houston Community College Graduate in Digital Communications with Associate Degree 
 
 * Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company
 
