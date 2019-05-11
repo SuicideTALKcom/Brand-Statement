@@ -24,7 +24,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Developer of first interactive NCAA multimedia training program for collegiate officiating
 
-* Project Manager of Baker Hughes Process Systems interactive 3D program and Houston OTC Presenter
+* Project Manager of Baker Hughes Process Systems interactive 3D program, Houston OTC Presenter
 
 * Project Manager of Electronically Produced Interactive Catalogues for Fortune 500 companies
 
