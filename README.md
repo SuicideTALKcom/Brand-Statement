@@ -1,6 +1,6 @@
 ## Doug F Newsom
 
-Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed research implementing contemporary technologies.  Proven upstream oil and gas expertise as a Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed and evaluated over 100 producing wells. Consultant and innovator with interactive digital communications, both managing and deploying complex life-cycle projects.  U.S. Gold Congressional Award Medal recipient presented for initiative, service, and achievement.
+Rice University graduate of accelerated 6-month Data Analytics and Visualization program.  Seek to discover insights from challenging data sets through detailed research implementing contemporary technologies.  Proven upstream oil and gas expertise as a Petroleum Geologist (M.S. - Texas A&M University, B.S. - Baylor University) having proposed and evaluated over 100 producing wells. Consultant and innovator with interactive digital communications, both managing and deploying complex life-cycle projects.  U.S. Gold Congressional Award Medal recipient presented for initiative, service and achievement.
 
 ### Background Summary
 
@@ -38,7 +38,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * National Hornaday Award recipient for distinguished conservation service, four presented in year
 
-* National Sea Scouts Quartermaster Award - Sea Scouting program highest rank (Top 0.5 percent) 
+* National Sea Scouts Quartermaster Award - Sea Scouting program highest rank (Top 0.5 Percent) 
 
 * Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
 
