@@ -14,7 +14,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Graduate of first Rice University accelerated 6-month Data Analytics and Visualization program
 
-* Graduate of first Lonestar College 2-year program in Interactive Multimedia Production
+* Graduate of first Lonestar College 2-year program certificate in Interactive Multimedia Production
 
 * Fall 2019 Houston Community College Graduate in Digital Communications with Associate Degree 
 
