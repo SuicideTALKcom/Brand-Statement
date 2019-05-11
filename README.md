@@ -36,9 +36,9 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
 
-* National Hornaday Award recipient for distinguished conservation service, one of four presented
+* National Hornaday Award recipient for distinguished conservation service, four presented in year
 
-* National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
+* National Sea Scouts Quartermaster Award - Sea Scouting program highest rank (Top 0.5 percent) 
 
 * Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
 
