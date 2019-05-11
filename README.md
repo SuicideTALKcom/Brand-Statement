@@ -10,7 +10,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Petroleum Geologist employed by Mitchell Energy (The Woodlands) and Phillips Petroleum Company 
 
-* Upstream energy corporate and field experience, proven success record of 100 oil and gas wells
+* Upstream energy corporate domain knowledge, plus wellsite experience, with proven traack record
 
 * Graduate of first Rice University accelerated 6-month Data Analytics and Visualization program
 
