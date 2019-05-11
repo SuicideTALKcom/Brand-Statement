@@ -16,30 +16,30 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * Graduate of first Lonestar College 2-year certificate program in Interactive Multimedia Production
 
-* Fall 2019 Houston Community College Graduate in Digital Communications with Associate Degree 
-
 * Founder and Owner of Eagle Vision Digital, a full-service interactive digital media company
 
 * Consultant to the Houston Advanced Research Center for all new and traditional digital media
 
 * Developer of first Department of Defense standardized Interactive Electronic Technical Manual
 
-* Developer of first interactive and searchable NCAA training program for collegiate officiating
+* Developer of first interactive NCAA multimedia training program for collegiate officiating
+
+* Project Manager of Baker Hughes Process Systems interactive 3D program and Houston OTC Presenter
 
 * Project Manager of Electronically Produced Interactive Catalogues for Fortune 500 companies
 
-* Founder and President of SuicideTALK.com, an international suicide prevention organization
+* Founder and Developer of SuicideTALK.com, an international suicide crisis prevention website
 
-* Gold Congressional Award Medal recipient presented for initiative, service, and achievement
+* U.S. Gold Congressional Award Medal recipient, 15 presented nationally the year of recognition
 
 * International, National, Regional, State, Council, District and Unit Leader in Scouting Program
 
 * Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
 
-* Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
-
-* U.S.A. National Hornaday Award recipient presented for distinguished service to conservation
+* National Hornaday Award recipient for distinguished conservation service, one of four presented
 
 * National Sea Scouts Quartermaster Award - highest rank attainable in the Sea Scouting program
+
+* Award recipient: Outstanding Young Men in America, Youth Leadership in America, Young American
 
 * Texas Triathlon Seven - First Place in Men's Business Team Division, competing in cycling leg
