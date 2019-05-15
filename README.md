@@ -34,7 +34,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 * International, National, Regional, State, Council, District and Unit Leader in Scouting Program
 
-* Only Texas Eagle Scout to earn every merit badge during first nine decades of American Scouting
+* Only Eagle Scout to earn every merit badge in Texas during first 9 decades of American Scouting
 
 * National Hornaday Award recipient for distinguished conservation service, four presented in year
 
