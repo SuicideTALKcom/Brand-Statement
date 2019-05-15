@@ -4,7 +4,7 @@ Rice University graduate of accelerated 6-month Data Analytics and Visualization
 
 ### Background Summary
 
-* Passionate about data science, digital communications, and emerging analytical technologies
+* Passionate about data science, digital communications, and emerging Internet technologies
 
 * Master of Science (Geology) Texas A&M University, Bachelor of Science (Geology) Baylor University
 
